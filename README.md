@@ -1,6 +1,8 @@
 ## About - Dont Waste Good Time Game
 ```markdown
-Dont Waste Good Time, Checkout your image learning and rememberance power with this game. This trick will surely increase your remembrance power. A Game By #DontWasteGoodTime #OyePhoto #DograsWeblog
+Dont Waste Good Time, Checkout your image learning and rememberance power with this game. 
+This trick will surely increase your remembrance power. 
+A Game By #DontWasteGoodTime #OyePhoto #DograsWeblog
 If you are looking for something new ask me!
 ```
 
