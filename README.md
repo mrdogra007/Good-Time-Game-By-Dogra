@@ -1,4 +1,5 @@
 ## About - Dont Waste Good Time Game
+
 ```markdown
 Dont Waste Good Time, Checkout your image learning and rememberance power with this game. 
 This trick will surely increase your remembrance power. 
@@ -9,6 +10,8 @@ If you are looking for advance level ask me!
 ## Live preview:
 
 http://dograsweblog.com/drive/good-time-game/
+
+![Snippet Cover](http://cloud.dograsweblog.com/good-time-game/cover-snippet-dont-waste-good-time-oyephoto-dogras-weblog.jpg)
 
 You can use the [editor on GitHub](https://github.com/mrdogra007/Good-Time-Game-By-Dogra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
